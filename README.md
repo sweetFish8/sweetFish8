@@ -28,7 +28,4 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-## 📈 Activity
-![sweetFish8's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetFish8&show_icons=true&theme=radical)
-
 ---
