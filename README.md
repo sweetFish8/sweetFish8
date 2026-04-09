@@ -32,4 +32,3 @@
 ![sweetFish8's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetFish8&show_icons=true&theme=radical)
 
 ---
-📫 **How to reach me:** [Your Email or LinkedIn]
