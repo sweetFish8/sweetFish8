@@ -7,10 +7,19 @@ that people can understand and use.
 ## Current Focus
 
 - Building iOS applications with Swift and SwiftUI
+- Designing reliable backend services and asynchronous processing systems
 - Applying AI and data analysis to product decisions
 - Improving product development through automation and rapid prototyping
 
 ## Featured Project
+
+### [PulseQueue](https://github.com/sweetFish8/pulsequeue)
+
+A durable background job queue implemented in Go. It includes atomic job claiming,
+concurrent workers, expiring leases, exponential retries, idempotency-key deduplication,
+a dead-letter queue, Prometheus metrics, a TTL cache, OpenAPI documentation, and Docker.
+
+**Tech:** Go, SQLite WAL, Prometheus, OpenAPI, Docker, GitHub Actions
 
 ### [AlgoBite](https://github.com/sweetFish8/AlgoBite)
 
@@ -27,6 +36,7 @@ achievements, reminders, and a WidgetKit extension.
 - [WordList](https://github.com/sweetFish8/WordList) - Personal vocabulary app with persistent storage and quizzes
 - [bigfarm-guide](https://github.com/sweetFish8/bigfarm-guide) - Web-based game guide built with Next.js
 - [GitHub Profile Card Generator](https://github.com/sweetFish8/github-profile-card) - TypeScript app using the GitHub REST API
+- [TechPulse Japan](https://github.com/sweetFish8/techpulse-japan) - Live technology trend feed using Qiita, Hacker News, and GitHub data
 
 ## Experience
 
@@ -36,6 +46,13 @@ achievements, reminders, and a WidgetKit extension.
 - **Product Management:** Connected user needs, business requirements, and engineering execution
 
 ## Tech Stack
+
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 **Mobile**
 
