@@ -31,10 +31,6 @@ achievements, reminders, and a WidgetKit extension.
 
 ## Other Projects
 
-- [Favorite](https://github.com/sweetFish8/Favorite) - SwiftUI guide app for creating sealing stamps
-- [SushiScore](https://github.com/sweetFish8/SushiScore) - iOS app for recording photos and scores with SwiftData and Charts
-- [WordList](https://github.com/sweetFish8/WordList) - Personal vocabulary app with persistent storage and quizzes
-- [bigfarm-guide](https://github.com/sweetFish8/bigfarm-guide) - Web-based game guide built with Next.js
 - [GitHub Profile Card Generator](https://github.com/sweetFish8/github-profile-card) - TypeScript app using the GitHub REST API
 - [TechPulse Japan](https://github.com/sweetFish8/techpulse-japan) - Live technology trend feed using Qiita, Hacker News, and GitHub data
 
